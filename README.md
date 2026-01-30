@@ -32,7 +32,7 @@
   <img src="https://cdn-icons-png.freepik.com/512/270/270798.png" height="40" alt="github" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV3aG8ydXVpZmZjaHZpcTV4ZXhvNmx0eTZiZXd3YjRoYTZuNXM4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <h3 align="left">📌 Resumo Rápido</h3>
 
