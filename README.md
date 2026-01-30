@@ -11,6 +11,8 @@
   Possuo conhecimentos em front-end e noções de experiência do usuário. Sou proativo, comprometido e motivado por desafios que envolvem inovação e trabalho em equipe.
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
 <h3 align="left">🛠 Ferramentas & Tecnologias</h3>
 
 <div align="left">
@@ -31,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn-icons-png.freepik.com/512/270/270798.png" height="40" alt="github" />
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <h3 align="left">📌 Resumo Rápido</h3>
 
