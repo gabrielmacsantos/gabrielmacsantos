@@ -4,8 +4,7 @@
   </a>
 </p>
 
-<h3 align="left">Quality Assurance Analyst & Automation</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<h3 align="left">Quality Assurance Analyst & Automation</h3
 <p align="left">
   Analista de Testes (QA) com <b>3 anos de experiência</b> em testes manuais, funcionais, regressivos e de performance. <br>
   Atuo com foco em qualidade, prevenção de falhas e melhoria contínua, sempre alinhado às metodologias ágeis e boas práticas de QA. <br>
@@ -32,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn-icons-png.freepik.com/512/270/270798.png" height="40" alt="github" />
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3 align="left">📌 Resumo Rápido</h3>
 
