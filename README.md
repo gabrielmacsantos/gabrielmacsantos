@@ -5,13 +5,12 @@
 </p>
 
 <h3 align="left">Quality Assurance Analyst & Automation</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <p align="left">
   Analista de Testes (QA) com <b>3 anos de experiência</b> em testes manuais, funcionais, regressivos e de performance. <br>
   Atuo com foco em qualidade, prevenção de falhas e melhoria contínua, sempre alinhado às metodologias ágeis e boas práticas de QA. <br>
   Possuo conhecimentos em front-end e noções de experiência do usuário. Sou proativo, comprometido e motivado por desafios que envolvem inovação e trabalho em equipe.
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1YWp4ZmJyd2QwaHplNWNmbWl6bm90a3RsMWhidnhlczgybmsxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <h3 align="left">🛠 Ferramentas & Tecnologias</h3>
 
